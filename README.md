@@ -5,29 +5,29 @@ Laboratorium miało na celu wykorzystanie Django Rest Framework i zapoznanie si�
 
 Swagger:
 
-![tasks](images/swagger.png)
+![swagger](images/swagger.png)
 
 Serializery:
 
-![tasks](images/serializer.png)
+![serializer](images/serializer.png)
 
-![tasks](images/serializer_users.png)
+![serializer_users](images/serializer_users.png)
 
 ## Lab 6
 Laboratorium miało na celu poszerzenie projektu z Lab 4 o viewsets, routers i uwierzytelnienie.
 
 Viewsets:
 
-![tasks](images/viewsets.png)
+![views](images/views.png)
 
 Uwierzytelnienie: 
 
-![tasks](images/auth.png)
+![auth](images/auth.png)
 
 Tokeny:
 
-![tasks](images/tokens.png)
+![tokens](images/tokens.png)
 
 Secure cookies:
 
-![tasks](images/cookie.png)
+![cookie](images/cookie.png)
